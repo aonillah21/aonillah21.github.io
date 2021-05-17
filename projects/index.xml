@@ -17,8 +17,8 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/projects/working-report-project/</guid>
-      <description>Working report adalah sebuah aplikasi untuk mengumpulkan informasi mengenai pekerjaan semua karyawan di PT Padepokan Tujuh Sembilan. Tujuan utama dari aplikasi working report ini adalah untuk memonitoring aktivitas pekerjaan karyawan perbulan sehingga bisa dilihat apakah karyawan yang bersangkutan layak untuk mendapatkan salary pada bulan tersebut.
-Pada development Aplikasi ini saya berkontribusi sebagai technical leader di front end dengan menyiapkan kerangka project dari direktori project, library yang akan di gunakan, juga ikut membantu melakukan bugs fixing saat selesai uat.</description>
+      <description>Working report is an application to collect information about the work of all employees at PT Padepokan Tujuh Sembilan. The main purpose of this working report application is to monitor the monthly work activities of employees so that it can be seen whether the employee is eligible for a salary for that month.
+In the development of this application, I contribute as a technical leader at the front end by preparing a project framework from the project directory, the library that will be used, as well as helping with bug fixing when it&amp;rsquo;s finished loading.</description>
     </item>
     
     <item>
@@ -27,8 +27,18 @@ Pada development Aplikasi ini saya berkontribusi sebagai technical leader di fro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aonillah21.github.io/projects/io-project/</guid>
-      <description>IO-Project adalah sebuah aplikasi e-learning yang di gunakan oleh karyawan PT Padepokan Tujuh Sembilan untuk meningkatkan pengetahuan dan skill nya dalam pemrograman. Aplikasi ini juga di pakai untuk aktivitas bootcamp bagi talent-talent yang baru bergabung dengan PT Padepokan Tujuh Sembilan.
-Pada development Aplikasi ini saya berkontribusi sebagai technical leader di front end dengan menyiapkan kerangka project dari direktori project, library yang akan di gunakan, juga ikut membantu dalam development saat sprint berjalan.</description>
+      <description>IO-Project is an e-learning application that is used by employees of PT Padepokan Tujuh Sembilan to improve their knowledge and skills in programming. This application is also used for bootcamp activities for new talents joining PT Padepokan Tujuh Sembilan.
+In the development of this application, I contribute as a technical leader at the front end by preparing a project framework from the project directory, the library that will be used, as well as helping with development during the sprint.</description>
+    </item>
+    
+    <item>
+      <title>Jubelio Chat</title>
+      <link>https://aonillah21.github.io/projects/jubelio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aonillah21.github.io/projects/jubelio/</guid>
+      <description>Jubelio chat is a chat application aimed at online store sellers, making it easier for sellers to reply to chats from customers because chat in various e-commerce can be done in just one app, namely jubelio chat. Examples of e-commerce that can be integrated with jubelio chat are like: shopee, tokopedia, Bukalapak, blibli and lazada.
+Work on the jubelio chat aggregator project is done in a team, and our team specifically works on the frontend.</description>
     </item>
     
   </channel>
