@@ -73,15 +73,17 @@
   </url>
   
   <url>
-    <loc>https://aonillah21.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://aonillah21.github.io/projects/io-project/</loc>
+    <lastmod>2021-03-18T10:41:19+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://aonillah21.github.io/projects/jubelio/</loc>
+    <lastmod>2021-03-17T10:41:19+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aonillah21.github.io/categories/</loc>
   </url>
   
 </urlset>

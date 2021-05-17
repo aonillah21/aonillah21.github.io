@@ -11,6 +11,18 @@ a {
     color: #39c3d7;
 }
 
+.bi-star {
+    color: #39c3d7!important;
+}
+
+.bi-star-half {
+    color: #39c3d7!important;
+}
+
+.bi-star-fill {
+    color: #39c3d7!important;
+}
+
 .jumbotron {
     margin-bottom: 0!important;
 }
