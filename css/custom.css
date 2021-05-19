@@ -59,11 +59,11 @@ a {
 }
 
 .img-profile {
-    width: 150px;
+    width: 180px;
     border-radius: 20px;
     border: 20px 20px solid turquoise;
     box-shadow: -20px -20px 1px 1px #39c3d7;
-    margin: 70px;
+    margin: 55px
 }
 
 .about-header {
@@ -112,6 +112,16 @@ a {
 
 .row-project {
     background-color: #e9ecef;
+}
+
+@media (min-width: 374px) {
+    .img-profile {
+        width: 200px;
+        border-radius: 20px;
+        border: 20px 20px solid turquoise;
+        box-shadow: -20px -20px 1px 1px #39c3d7;
+        margin: 80px
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
