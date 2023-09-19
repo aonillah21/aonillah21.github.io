@@ -6,18 +6,14 @@
     <description>Recent content in Skillsets on Firman Aonillah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 10:41:19 +0700</lastBuildDate>
-    
-	<atom:link href="https://aonillah21.github.io/skillset/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Mar 2021 10:41:19 +0700</lastBuildDate><atom:link href="https://aonillah21.github.io/skillset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angular</title>
       <link>https://aonillah21.github.io/skillset/angular/</link>
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/angular/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/css/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/java/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -44,7 +40,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/node-js/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -53,7 +49,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/react-js/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -62,7 +58,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/react-native/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -71,7 +67,7 @@
       <pubDate>Fri, 19 Mar 2021 10:41:19 +0700</pubDate>
       
       <guid>https://aonillah21.github.io/skillset/spring-boot/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
   </channel>

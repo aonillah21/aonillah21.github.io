@@ -6,11 +6,7 @@
     <description>Recent content in OOP on Firman Aonillah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 10:41:19 +0700</lastBuildDate>
-    
-	<atom:link href="https://aonillah21.github.io/tags/oop/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Mar 2021 10:41:19 +0700</lastBuildDate><atom:link href="https://aonillah21.github.io/tags/oop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working Report</title>
       <link>https://aonillah21.github.io/projects/working-report-project/</link>
@@ -18,13 +14,13 @@
       
       <guid>https://aonillah21.github.io/projects/working-report-project/</guid>
       <description>Working report is an application to collect information about the work of all employees at PT Padepokan Tujuh Sembilan. The main purpose of this working report application is to monitor the monthly work activities of employees so that it can be seen whether the employee is eligible for a salary for that month.
-In the development of this application, I contribute as a technical leader at the front end by preparing a project framework from the project directory, the library that will be used, as well as helping with bug fixing when it&amp;rsquo;s finished loading.</description>
+In the development of this application, I contribute as a technical leader at the front end by preparing a project framework from the project directory, the library that will be used, as well as helping with bug fixing when it’s finished loading.</description>
     </item>
     
     <item>
       <title>IO Project</title>
       <link>https://aonillah21.github.io/projects/io-project/</link>
-      <pubDate>Thu, 18 Mar 2021 10:41:19 +0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aonillah21.github.io/projects/io-project/</guid>
       <description>IO-Project is an e-learning application that is used by employees of PT Padepokan Tujuh Sembilan to improve their knowledge and skills in programming. This application is also used for bootcamp activities for new talents joining PT Padepokan Tujuh Sembilan.
